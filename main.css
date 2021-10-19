@@ -1,0 +1,42 @@
+#p1{
+    font-size: large;
+    text-align: center;
+    font-weight: bold;
+}
+
+#albert{
+    text-align: center;
+    color: blue;
+    font-size: large;
+    font-weight: bold;
+}
+
+#mc{
+    text-align: center;
+    color: red;
+    font-size: large;
+    font-weight: bold;
+}
+
+#im{
+    text-align: center;
+  
+}
+#div1{
+    background-color: azure;
+}
+#ph{
+    font-style: italic;
+    font-weight: bold;
+}
+#pp{
+    font-size: large;
+    font-weight: bold;
+}
+#lien{
+    text-align: left;
+}
+body{
+    padding: 0 2%;
+    margin: auto;
+}
