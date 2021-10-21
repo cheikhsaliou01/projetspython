@@ -19,8 +19,8 @@ nav .profile{
     align-items: center;
 }
 nav .profile img{
-    width: 40px;
-    height: 40px;
+    width: 70px;
+    height: 70px;
     border-radius: 50%;
 }
 nav .profile h1{
@@ -119,4 +119,25 @@ nav ul li:hover{
        margin-top: 10%;
        max-width: 100%;
    }
+}
+.advantages h2{
+    align-items: center;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 10%;
+}
+.advantages-list{
+    margin-top: 5%;
+    margin: 0;
+    font-family: 'Oswald',sans-serif;
+    font-size: 3vw;
+}
+.propos{
+    font-family: 'Oswald',sans-serif;
+    text-align: center;
+    margin-top: 10%;
+}
+.propos h1{
+    text-transform: uppercase;
+    color: mediumblue;
 }
